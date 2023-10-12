@@ -1,4 +1,4 @@
-# LexiCon Instructions
+# LexiCon 
 
 ## Meeting Time 
 This is for our Soft. Engineering Class
