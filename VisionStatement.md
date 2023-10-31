@@ -1,2 +1,1 @@
-Vision Statement
 As college students we along side with many others struggle to track their expenses and spend their money wisely. This is why we have decided to develop a expense tracker that can help students easily keep on top of their spending habits. 
