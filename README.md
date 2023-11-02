@@ -2,7 +2,7 @@
 
 ## Meeting Time 
 
-##Names
+## Names
 WrigglyBoat - Corynthian 
 qwright2 - Quintard 
 shariffali - Shariff
