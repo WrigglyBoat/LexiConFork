@@ -3,10 +3,10 @@
 ## Meeting Time 
 
 ## Names
-WrigglyBoat - Corynthian 
-qwright2 - Quintard 
-shariffali - Shariff
-JMcph24 - JaBrell
+WrigglyBoat - Corynthian <br>
+qwright2 - Quintard <br>
+shariffali - Shariff <br>
+JMcph24 - JaBrell <br>
 
 ## 3 Category Users and Use Cases
 Placeholder Text
