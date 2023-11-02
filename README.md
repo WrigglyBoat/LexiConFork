@@ -2,6 +2,12 @@
 
 ## Meeting Time 
 
+##Names
+WrigglyBoat - Corynthian 
+qwright2 - Quintard 
+shariffali - Shariff
+JMcph24 - JaBrell
+
 ## 3 Category Users and Use Cases
 Placeholder Text
 This is for our Soft. Engineering Class
