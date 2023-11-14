@@ -2,7 +2,14 @@
 
 ## Meeting Time 
 
+## Names
+WrigglyBoat - Corynthian <br>
+qwright2 - Quintard <br>
+shariffali - Shariff <br>
+JMcph24 - JaBrell <br>
+
 ## 3 Category Users and Use Cases
+Placeholder Text
 This is for our Soft. Engineering Class
 
 Business Professionals:
