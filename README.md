@@ -1,6 +1,9 @@
 # LexiCon 
 This is a expense tracker made in java for anyone who needs help with tracking their expenses. This is a simple version that allows you to enter your expense and that expense is added to the screen (up to 10 expenses). There is also room for more features.
 
+# Know Issues
+1.Logo is in the way when adding multiple entries of the expense tracker.
+2.Expense Tracking information doesn't output to a file correctly.
 
 # Meeting Times
 11/11/23 - 1 1/2 hours <br>
