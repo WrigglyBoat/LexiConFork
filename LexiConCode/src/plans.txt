@@ -1,0 +1,63 @@
+Add Welcome Screen with Account Creation it will have:
+    Money on hand   
+    First and Last name
+    Username and Password
+
+Features to implement:
+    Add a log where the information is displayed
+    Add a profile button where you can see personal information
+    Mock up of Bank integration
+
+Sign Up Frame Code for later 
+JFrame signup;
+    JLabel user, pass, balance, routing, account, signupLogo;
+    JTextField userName, passWord, currentBal, routingNum, accountNum;
+    //Sign Up Frame ^^
+    
+/*signup = new JFrame();
+        signup.setTitle("Sign Up");
+        signup.setSize(800,500);
+        //signup.setResizable(false);
+        signup.setLocationRelativeTo(null);
+        signup.setLayout(new GridBagLayout());
+        signup.getContentPane().setBackground(Color.darkGray);
+        signup.setDefaultCloseOperation(EXIT_ON_CLOSE);
+                    
+        try {
+            URL iconURL = new URL("https://seeklogo.com/images/L/l-letter-from-death-note-logo-6999722A33-seeklogo.com.png");
+            BufferedImage logo = ImageIO.read(iconURL);
+            icon = new ImageIcon(logo);
+            signup.setIconImage(logo);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        signupLogo = new JLabel(icon);
+        signupLogo.setBounds(400,700,200,200);
+
+        user = new JLabel("Username");
+        user.setForeground(Color.white);
+        user.setPreferredSize(new Dimension(200,20));
+        user.setFont(new Font("Comic Sans",Font.PLAIN,20));
+        userName = new JTextField(10);
+        
+        pass = new JLabel("Password");
+        pass.setForeground(Color.white);
+        pass.setPreferredSize(new Dimension(200,20));
+        pass.setFont(new Font("Comic Sans",Font.PLAIN,20));
+        passWord = new JTextField(10);
+
+        balance = new JLabel("What is your Current Balance?");
+        balance.setForeground(Color.white);
+        balance.setPreferredSize(new Dimension(300,20));
+        balance.setFont(new Font("Comic Sans",Font.PLAIN,20));
+        currentBal = new JTextField(10);
+    
+        signup.add(user);
+        signup.add(userName);
+        signup.add(pass);
+        signup.add(passWord);
+        signup.add(balance);
+        signup.add(currentBal);
+        signup.add(signupLogo);
+        signup.setVisible(true);*/
