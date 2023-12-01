@@ -1,5 +1,5 @@
 # LexiCon 
-    This is a expense tracker made in java for anyone who needs help with tracking their expenses. This is a simple version that allows you to enter your expense and that expense is added to the screen (up to 10 expenses). There is also room for more features.
+This is a expense tracker made in java for anyone who needs help with tracking their expenses. This is a simple version that allows you to enter your expense and that expense is added to the screen (up to 10 expenses). There is also room for more features.
 
 
 # Meeting Times
@@ -12,7 +12,7 @@ WrigglyBoat - Corynthian <br>
 qwright2 - Quintard <br>
 shariffali - Shariff <br>
 JMcph24 - JaBrell <br>
-=======
+
 ## Names
 WrigglyBoat - Corynthian Love <br>
 qwright2 - Quintard Wright <br>
