@@ -2,6 +2,7 @@
     This is a expense tracker made in java for anyone who needs help with tracking their expenses. This is a simple version that allows you to enter your expense and that expense is added to the screen (up to 10 expenses). There is also room for more features.
 
 
+<<<<<<< HEAD
 # Meeting Times
 11/11/23 - 1 1/2 hours <br>
 11/19/23 - 1 hour <br>
@@ -12,6 +13,13 @@ WrigglyBoat - Corynthian <br>
 qwright2 - Quintard <br>
 shariffali - Shariff <br>
 JMcph24 - JaBrell <br>
+=======
+## Names
+WrigglyBoat - Corynthian Love <br>
+qwright2 - Quintard Wright <br>
+shariffali - Shariff Ali <br>
+JMcph24 - JaBrell McPherson <br>
+>>>>>>> 13e14db4989ee88838fdda38d58dae612c316823
 
 # 3 Category Users and Use Cases
 ## Business Professionals:
