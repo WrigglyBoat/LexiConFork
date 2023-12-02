@@ -2,8 +2,8 @@
 This is a expense tracker made in java for anyone who needs help with tracking their expenses. This is a simple version that allows you to enter your expense and that expense is added to the screen (up to 10 expenses). There is also room for more features.
 
 # Know Issues
-1.Logo is in the way when adding multiple entries of the expense tracker.
-2.Expense Tracking information doesn't output to a file correctly.
+1.Logo is in the way when adding multiple entries of the expense tracker. <br>
+2.Expense Tracking information doesn't output to a file correctly. <br>
 
 # Meeting Times
 11/11/23 - 1 1/2 hours <br>
@@ -11,10 +11,10 @@ This is a expense tracker made in java for anyone who needs help with tracking t
 11/26/23 - 1 hour <br>
 
 # Names
-WrigglyBoat - Corynthian <br>
-qwright2 - Quintard <br>
-shariffali - Shariff <br>
-JMcph24 - JaBrell <br>
+WrigglyBoat - Corynthian Love <br>
+qwright2 - Quintard Wright <br>
+shariffali - Shariff Ali <br>
+JMcph24 - JaBrell McPherson <br>
 
 ## Names
 WrigglyBoat - Corynthian Love <br>
