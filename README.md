@@ -16,12 +16,6 @@ qwright2 - Quintard Wright <br>
 shariffali - Shariff Ali <br>
 JMcph24 - JaBrell McPherson <br>
 
-## Names
-WrigglyBoat - Corynthian Love <br>
-qwright2 - Quintard Wright <br>
-shariffali - Shariff Ali <br>
-JMcph24 - JaBrell McPherson <br>
-
 # 3 Category Users and Use Cases
 ## Business Professionals:
 Business professionals, such as entrepreneurs, executives, and employees, often use expense trackers to manage their business-related spending. They do so for several reasons: Tax deductions, budgeting and expense reimbursements 
